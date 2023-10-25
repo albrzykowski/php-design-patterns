@@ -32,11 +32,11 @@ facade.php
 # lib/Pattern/FluentInterface/*
 # fluentInterface.php
 
-lib/Pattern/Iterator/*
-iterator.php
+lib/Pattern/Iterator/Repository2.php
+lib/Pattern/Iterator/RepositoryIterator.php
+# iterator.php
 
 lib/Pattern/InterceptingFilter/*
-iterator.php
 
 lib/Pattern/Observer/*
 observer.php
