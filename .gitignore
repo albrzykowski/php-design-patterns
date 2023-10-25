@@ -33,7 +33,7 @@ facade.php
 # fluentInterface.php
 
 lib/Pattern/Iterator/Repository2.php
-lib/Pattern/Iterator/RepositoryIterator.php
+# lib/Pattern/Iterator/RepositoryIterator.php
 # iterator.php
 
 lib/Pattern/InterceptingFilter/*
