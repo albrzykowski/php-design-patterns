@@ -55,8 +55,8 @@ proxy.php
 lib/Pattern/Strategy/*
 strategy.php
 
-lib/Pattern/TemplateMethod/*
-templateMethod.php
+# lib/Pattern/TemplateMethod/*
+# templateMethod.php
 
 lib/Pattern/Visitor/*
 visitor.php
