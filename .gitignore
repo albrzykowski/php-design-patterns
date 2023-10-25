@@ -26,8 +26,8 @@ delegate.php
 lib/Pattern/Facade/*
 facade.php
 
-lib/Pattern/Factory/*
-factory.php
+# lib/Pattern/Factory/*
+# factory.php
 
 lib/Pattern/FluentInterface/*
 fluentInterface.php
