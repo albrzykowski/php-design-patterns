@@ -2,8 +2,8 @@ nbproject
 doc
 *.attrs
 
-lib/Pattern/Adapter/*
-adapter.php
+# lib/Pattern/Adapter/*
+# adapter.php
 
 # lib/Pattern/Builder/*
 # builder.php
