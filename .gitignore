@@ -5,8 +5,8 @@ doc
 lib/Pattern/Adapter/*
 adapter.php
 
-lib/Pattern/Builder/*
-builder.php
+# lib/Pattern/Builder/*
+# builder.php
 
 lib/Pattern/ChainOfResponsibility/*
 chainOfResponsibility.php
@@ -29,8 +29,8 @@ facade.php
 # lib/Pattern/Factory/*
 # factory.php
 
-lib/Pattern/FluentInterface/*
-fluentInterface.php
+# lib/Pattern/FluentInterface/*
+# fluentInterface.php
 
 lib/Pattern/Iterator/*
 iterator.php
@@ -43,8 +43,8 @@ observer.php
 
 playground.php
 
-lib/Pattern/Prototype/*
-prototype.php
+# lib/Pattern/Prototype/*
+# prototype.php
 
 lib/Pattern/Proxy/*
 proxy.php
