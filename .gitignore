@@ -49,8 +49,8 @@ prototype.php
 lib/Pattern/Proxy/*
 proxy.php
 
-lib/Pattern/Singleton*
-singleton.php
+# lib/Pattern/Singleton*
+# singleton.php
 
 lib/Pattern/Strategy/*
 strategy.php
