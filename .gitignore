@@ -12,11 +12,11 @@ doc
 # lib/Pattern/ChainOfResponsibility/*
 # chainOfResponsibility.php
 
-lib/Pattern/Command/*
-command.php
+# lib/Pattern/Command/*
+# command.php
 
-lib/Pattern/Composite/*
-composite.php
+# lib/Pattern/Composite/*
+# composite.php
 
 # lib/Pattern/Decorator/*
 # decorator.php
