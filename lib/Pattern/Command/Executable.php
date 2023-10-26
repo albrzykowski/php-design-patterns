@@ -8,5 +8,14 @@ namespace Pattern\Command;
  */
 interface Executable
 {
-    // implement
+    /**
+     * Executes command 
+     * @return boolean
+     */
+    public function execute();
+    /**
+     * Undos command 
+     * @return string
+     */
+    public function undo();
 }

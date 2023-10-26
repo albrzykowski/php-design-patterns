@@ -45,6 +45,8 @@ class AccountingOffice
      */
     public function undo($executedCommands)
     {
-        // implement
+        foreach ($executedCommands as $executedCommand) {
+            return $executedCommand->undo();
+        }
     }
 }
