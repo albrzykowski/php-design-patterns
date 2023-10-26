@@ -59,8 +59,11 @@ playground.php
 # lib/Pattern/Prototype/*
 # prototype.php
 
-lib/Pattern/Proxy/*
-proxy.php
+# lib/Pattern/Proxy/User.php
+# lib/Pattern/Proxy/UserProxy.php
+# lib/Pattern/Proxy/UserInterface.php
+# lib/Pattern/Proxy/Session.php
+# proxy.php
 
 # lib/Pattern/Singleton*
 # singleton.php
