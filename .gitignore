@@ -69,11 +69,11 @@ playground.php
 # lib/Pattern/Singleton*
 # singleton.php
 
-lib/Pattern/State/Account.php
-lib/Pattern/State/AccountStateInterface.php
-lib/Pattern/State/AccountOpen.php
-lib/Pattern/State/AccountClosed.php
-state.php
+# lib/Pattern/State/Account.php
+# lib/Pattern/State/AccountStateInterface.php
+# lib/Pattern/State/AccountOpen.php
+# lib/Pattern/State/AccountClosed.php
+# state.php
 
 # lib/Pattern/Strategy/*
 # strategy.php
