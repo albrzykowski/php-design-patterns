@@ -17,8 +17,8 @@ command.php
 lib/Pattern/Composite/*
 composite.php
 
-lib/Pattern/Decorator/*
-decorator.php
+# lib/Pattern/Decorator/*
+# decorator.php
 
 lib/Pattern/Delegate/*
 delegate.php
@@ -38,8 +38,21 @@ lib/Pattern/Iterator/Repository2.php
 
 lib/Pattern/InterceptingFilter/*
 
+lib/Pattern/Memento/State.php
+lib/Pattern/Memento/Memento.php
+lib/Pattern/Memento/Originator.php
+lib/Pattern/Memento/Caretaker.php
+memento.php
+
 lib/Pattern/Observer/*
 observer.php
+
+lib/Pattern/ObserverLight/Plugin.php
+lib/Pattern/ObserverLight/YetAnotherPlugin.php
+lib/Pattern/ObserverLight/PluginInterface.php
+lib/Pattern/ObserverLight/Core.php
+lib/Pattern/ObserverLight/EventDispatcher.php
+observerLight.php
 
 playground.php
 
@@ -51,6 +64,12 @@ proxy.php
 
 # lib/Pattern/Singleton*
 # singleton.php
+
+lib/Pattern/State/Account.php
+lib/Pattern/State/AccountStateInterface.php
+lib/Pattern/State/AccountOpen.php
+lib/Pattern/State/AccountClosed.php
+state.php
 
 lib/Pattern/Strategy/*
 strategy.php
