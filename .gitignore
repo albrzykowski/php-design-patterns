@@ -9,8 +9,8 @@ doc
 # lib/Pattern/Builder/*
 # builder.php
 
-lib/Pattern/ChainOfResponsibility/*
-chainOfResponsibility.php
+# lib/Pattern/ChainOfResponsibility/*
+# chainOfResponsibility.php
 
 lib/Pattern/Command/*
 command.php
