@@ -1,4 +1,12 @@
 <?php
 namespace Pattern\ObserverLight;
-// implement
+use Pattern\ObserverLight\PluginInterface;
+
+class YetAnotherPlugin implements PluginInterface
+{
+  public function react($args)
+  {
+    echo 'Yet another plugin works with: ' . implode(",", $args) .  "\r\n";
+  }
+}
 
