@@ -50,7 +50,10 @@ class Container implements Nodeable
     public function render()
     {
         return function () {
-            // Implement
+            $count = count($this->children);
+            for ($i = 0; $i < $count; $i++) {
+                printf('<h2>%s</h2>', $this->children[$i]->getName());
+            }
         };
     }
 }

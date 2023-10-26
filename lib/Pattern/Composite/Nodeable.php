@@ -8,5 +8,14 @@ namespace Pattern\Composite;
  */
 interface Nodeable
 {
-    // implement
+    /**
+     * Renders node 
+     * @return Closure
+     */
+    public function render();
+    /**
+     * Returns specific node's name 
+     * @return string
+     */
+    public function getName();
 }
