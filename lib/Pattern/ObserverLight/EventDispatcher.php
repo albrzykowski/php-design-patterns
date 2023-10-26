@@ -6,7 +6,9 @@ class EventDispatcher
   private static $observers = [];
   public static function dispatch($eventName, $args)
   {
-    // implement
+    foreach (self::$observers[$eventName] as $observer) {
+      $observer->react($args);
+    }
   }
   public static function connect($eventName, $observer)
   {
