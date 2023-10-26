@@ -75,8 +75,8 @@ lib/Pattern/State/AccountOpen.php
 lib/Pattern/State/AccountClosed.php
 state.php
 
-lib/Pattern/Strategy/*
-strategy.php
+# lib/Pattern/Strategy/*
+# strategy.php
 
 # lib/Pattern/TemplateMethod/*
 # templateMethod.php
