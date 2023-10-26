@@ -48,12 +48,12 @@ lib/Pattern/InterceptingFilter/*
 # lib/Pattern/Observer/*
 # observer.php
 
-lib/Pattern/ObserverLight/Plugin.php
-lib/Pattern/ObserverLight/YetAnotherPlugin.php
-lib/Pattern/ObserverLight/PluginInterface.php
-lib/Pattern/ObserverLight/Core.php
-lib/Pattern/ObserverLight/EventDispatcher.php
-observerLight.php
+# lib/Pattern/ObserverLight/Plugin.php
+# lib/Pattern/ObserverLight/YetAnotherPlugin.php
+# lib/Pattern/ObserverLight/PluginInterface.php
+# lib/Pattern/ObserverLight/Core.php
+# lib/Pattern/ObserverLight/EventDispatcher.php
+# observerLight.php
 
 playground.php
 
