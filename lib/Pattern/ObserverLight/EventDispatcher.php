@@ -10,6 +10,6 @@ class EventDispatcher
   }
   public static function connect($eventName, $observer)
   {
-    self::$observers[$eventName][] = $observer;
+    // implement
   }
 }
