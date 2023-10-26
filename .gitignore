@@ -1,6 +1,7 @@
 nbproject
 doc
 *.attrs
+*.tmp
 
 # lib/Pattern/Adapter/*
 # adapter.php
@@ -80,5 +81,5 @@ strategy.php
 # lib/Pattern/TemplateMethod/*
 # templateMethod.php
 
-lib/Pattern/Visitor/*
-visitor.php
+# lib/Pattern/Visitor/*
+# visitor.php
