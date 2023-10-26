@@ -1,0 +1,37 @@
+System powiadomień
+
+Krótki opis: 
+Naszym celem jest wdrożenie systemu powiadamiania użytkowników systemu rekrutacyjnego poprzez różne media. 
+Użytkownicy podzieleni są na dwie grupy:
+  1. Rekruterów
+  2. Użytkownicy poszukujący pracy
+Powiadomienia mogą dotyczyć:
+  1. Pojawienie się nowych profili pasujących do kryteriów (po pojawieniu się profilu) -> Rekruterzy
+  2. Braku płatności za konto (raz na 30 dni) -> Rekruterzy
+  3. Otrzymaniu CV na zamieszczoną ofertę pracy (raz na 24 h) -> Rekruterzy
+  4. Otrzymanie wiadomości (po wysłaniu wiadomości) -> Rekruterzy/Użytkownicy poszukujący pracy
+  5. Pojawienie się nowych ofert pracy (raz na 24 h)-> Użytkownicy poszukujący pracy
+
+Użytkownicy poszukujący pracy mogą filtrować oferty po:
+  1. Dopasowanie na podstawie Kategori/specjalizacji
+  2. Dopasowanie po "widełkach" cenowych
+  3. Dopasowanie po lokalizacji (łącznie z zakresem od - do km)
+
+Rekruterzy mogą filtrować oferty po:
+  1. Dopasowanie na podstawie Kategori/specjalizacji
+  2. Dopasowanie po minimalnym wykształceniu
+  3. Dopasowanie po lokalizacji (łącznie z zakresem od - do km)
+  4. Dopasowanie po umiejętnościach - lista
+
+Profil Użytkownika poszukującego pracę może być:
+  1. Pełny - dane wprowadzone do systemu + dane pobrane z API LinkedIn i GoldenLine
+  2. Podstawowy - dane wprowadzone do systemu
+
+Media kontaktu:
+  1. Skrzynka powiadomień systemu
+  2. Wysłanie na konto e-mail
+  3. Wysłanie w postaci SMS
+
+System pozwala na eksportowanie Rekruterom podstawowych danych pasujących profili do formatu Excel oraz CSV.
+
+W projektowanym systemie nie interesuje nas GUI.
