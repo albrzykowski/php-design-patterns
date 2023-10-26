@@ -39,11 +39,11 @@ lib/Pattern/Iterator/Repository2.php
 
 lib/Pattern/InterceptingFilter/*
 
-lib/Pattern/Memento/State.php
-lib/Pattern/Memento/Memento.php
-lib/Pattern/Memento/Originator.php
-lib/Pattern/Memento/Caretaker.php
-memento.php
+# lib/Pattern/Memento/State.php
+# lib/Pattern/Memento/Memento.php
+# lib/Pattern/Memento/Originator.php
+# lib/Pattern/Memento/Caretaker.php
+# memento.php
 
 lib/Pattern/Observer/*
 observer.php
